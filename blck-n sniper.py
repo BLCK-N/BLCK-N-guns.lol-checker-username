@@ -33,7 +33,7 @@ intro_text = r'''
 ██████╔╝███████╗╚██████╗██║  ██╗     ██║ ╚████║    ███████║██║ ╚████║██║██║     ███████╗██║  ██║
 ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝     ╚═╝  ╚═══╝    ╚══════╝╚═╝  ╚═══╝╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝
                                                                                                 
-                                 https://github.com/BLCK-N/BLCK-N-guns.lol-checker-username         https://guns.lol/0v1                                                                                                                   
+                   https://github.com/BLCK-N         https://guns.lol/0v1                                                                                                                   
                                
 
                                                > Press Enter                                         
